@@ -3530,11 +3530,13 @@
             },
             {
               "name": "yDist",
-              "ioValue": 0
+              "ioValue": 0,
+              "currentEquation": "0"
             },
             {
               "name": "zDist",
-              "ioValue": 0
+              "ioValue": 1,
+              "currentEquation": "1"
             }
           ]
         },
@@ -4278,6 +4280,11 @@
           "ap2Name": "geometry",
           "ap1ID": "id-41013",
           "ap2ID": "id-41025"
+        },
+        {
+          "ap2Name": "remove",
+          "ap1ID": "id-41013",
+          "ap2ID": "id-43786"
         },
         {
           "ap2Name": "Shape 2",
