@@ -4280,11 +4280,6 @@
           "ap2ID": "id-41025"
         },
         {
-          "ap2Name": "remove",
-          "ap1ID": "id-41013",
-          "ap2ID": "id-43786"
-        },
-        {
           "ap2Name": "Shape 2",
           "ap1ID": "id-41025",
           "ap2ID": "id-41097"
@@ -5941,7 +5936,7 @@
             {
               "name": "Shape 1",
               "ioValue": {
-                "geometry": "strhash4a800e70-0",
+                "geometry": "ac7fcf90-0",
                 "color": "#3c5a6e",
                 "tags": [],
                 "bom": [],
@@ -5969,7 +5964,7 @@
             {
               "name": "Shape 2",
               "ioValue": {
-                "geometry": "strhashe3c4526e-0",
+                "geometry": "d8eaa148-0",
                 "color": "#3c5a6e",
                 "tags": [],
                 "bom": [],
