@@ -5941,7 +5941,7 @@
             {
               "name": "Shape 1",
               "ioValue": {
-                "geometry": "53372ed8-0",
+                "geometry": "strhash4a800e70-0",
                 "color": "#3c5a6e",
                 "tags": [],
                 "bom": [],
@@ -5969,7 +5969,7 @@
             {
               "name": "Shape 2",
               "ioValue": {
-                "geometry": "a4b2bbd0-0",
+                "geometry": "strhashe3c4526e-0",
                 "color": "#3c5a6e",
                 "tags": [],
                 "bom": [],
