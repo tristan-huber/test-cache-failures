@@ -3530,13 +3530,11 @@
             },
             {
               "name": "yDist",
-              "ioValue": 0,
-              "currentEquation": "0"
+              "ioValue": 0
             },
             {
               "name": "zDist",
-              "ioValue": 1,
-              "currentEquation": "1"
+              "ioValue": 1
             }
           ]
         },
