@@ -3777,26 +3777,6 @@
           ]
         },
         {
-          "atomType": "Assembly",
-          "x": 0.8743489583333334,
-          "y": 0.21142857142857144,
-          "uniqueID": "id-41115",
-          "ioValues": [
-            {
-              "name": "Shape 1",
-              "ioValue": null
-            },
-            {
-              "name": "Shape 2",
-              "ioValue": null
-            },
-            {
-              "name": "Shape 3",
-              "ioValue": null
-            }
-          ]
-        },
-        {
           "atomType": "Intersection",
           "x": 0.49267578125,
           "y": 0.38125000000000003,
@@ -4270,11 +4250,6 @@
           "ap2ID": "id-41041"
         },
         {
-          "ap2Name": "Shape 1",
-          "ap1ID": "id-40815",
-          "ap2ID": "id-41115"
-        },
-        {
           "ap2Name": "geometry",
           "ap1ID": "id-41013",
           "ap2ID": "id-41025"
@@ -4323,21 +4298,6 @@
           "ap2Name": "Shape 3",
           "ap1ID": "id-41103",
           "ap2ID": "id-41097"
-        },
-        {
-          "ap2Name": "Shape 2",
-          "ap1ID": "id-41109",
-          "ap2ID": "id-41115"
-        },
-        {
-          "ap2Name": "Shape 3",
-          "ap1ID": "id-41112",
-          "ap2ID": "id-41115"
-        },
-        {
-          "ap2Name": "number or geometry",
-          "ap1ID": "id-41115",
-          "ap2ID": "id-40737"
         },
         {
           "ap2Name": "geometry",
